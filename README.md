@@ -31,12 +31,6 @@ Este projeto demonstra uma Interface Cérebro-Computador (ICC) simples utilizand
 
 ---
 
-### 📷 Preview
-
-(Sugestão: adicione aqui uma imagem ou vídeo do servo sendo controlado)
-
----
-
 ### ⚠️ Notas
 
 - Os valores de atenção variam entre usuários e sessões. Pode ser necessário ajustar o mapeamento (`map(attentionLevel, 40, 100, 30, 180)`) para melhor resposta.
